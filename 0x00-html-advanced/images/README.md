@@ -1,1 +1,1 @@
-images fodler
+folder for images
